@@ -93,4 +93,4 @@ We provide the evaluation code in **Model_eval.ipynb**, where you can load and e
 </center>
 
 ## References
-- Sheng Liu, Chhavi Yadav, Carlos Fernandez-Granda, Narges Razavian. "On the design of convolutional neural networks for automatic detection of Alzheimer’s disease", in NeurIPS ML4H, 2019.
+- Sheng Liu, Chhavi Yadav, Carlos Fernandez-Granda, Narges Razavian, Eljan Guluyev. "On the design of convolutional neural networks for automatic detection of Alzheimer’s disease", in NeurIPS ML4H, 2019.
