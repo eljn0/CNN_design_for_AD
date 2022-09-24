@@ -61,6 +61,7 @@ class ADNI_3D(data.Dataset):
     def __len__(self):
         return len(self.subject_tsv)
 
+
     def __getitem__(self, idx):
         try:
             path = os.path.join(self.dir_to_scans,self.subject_tsv.iloc[idx].participant_id,
