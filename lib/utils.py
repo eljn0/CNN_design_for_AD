@@ -26,6 +26,7 @@ class AverageMeter(object):
         self.avg = self.sum / self.count
 
 
+
 class FullModel(nn.Module):
     def __init__(self, model, loss):
         super(FullModel, self).__init__()
