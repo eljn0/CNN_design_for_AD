@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Sheng
+@author: Sheng, Eljan Guluyev
 """
 import torch
 import torch.nn as nn
