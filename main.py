@@ -242,6 +242,7 @@ def validate(cfg,val_loader,main_model,criterion,epoch):
     logit_all = []
     target_all = []
 
+
     for i, (input, target, patient_idx, mmse, segment,age) in enumerate(val_loader):
         # measure data loading time
         data_time.update(time.time() - end)
